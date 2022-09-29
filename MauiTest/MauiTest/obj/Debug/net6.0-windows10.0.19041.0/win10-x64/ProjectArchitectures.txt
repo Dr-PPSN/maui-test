@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\ausbildung\C-Sharp-Projekte\maui-test\MauiTest\MauiTest\MauiTest.csproj;x64
